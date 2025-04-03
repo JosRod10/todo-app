@@ -1,7 +1,7 @@
 # TodoApp
 ## Captura de pantalla
-![Interfaz](assets/claro_app.png)
-![Interfaz](assets/dark_app.png)
+![Interfaz](src/app/assets/claro_app.png)
+![Interfaz](src/app/assets/dark_app.png)
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.6.
 
