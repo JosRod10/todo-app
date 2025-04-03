@@ -1,4 +1,8 @@
-# TodoApp
+# Aplicacion de tareas
+
+App para crear tareas con Angular 19 y Bootstrap. App para crear tareas, listarlas como pendientes o completadas,
+ y la opción de eliminarlas, haciendo uso de localStorage para tener persistencia despues de cargar la página. 
+
 ## Captura de pantalla
 ![Proyecto modo light](src/app/assets/claro_app.png)
 ![Proyecto modo dark](src/app/assets/dark_app.png)
